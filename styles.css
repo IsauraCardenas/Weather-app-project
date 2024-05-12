@@ -1,0 +1,86 @@
+html {
+  background-image: url("https://i.imgur.com/CSsJPQR.jpeg");
+}
+head {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #cfb59d;
+  display: block;
+  unicode-bidi: isolate;
+}
+
+.input-city {
+  background-color: #f9f8f6;
+  border-width: initial;
+  border-style: none;
+  border-color: initial;
+  border-image: initial;
+  padding: 20px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  width: 75%;
+  font-size: 16px;
+}
+.input-button {
+  margin-left: 5px;
+  font-size: 16px;
+  background-color: #2e2c39;
+  color: white;
+  line-height: 2;
+  border-width: initial;
+  border-style: none;
+  border-color: initial;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  font-family: "Oswald", sans-serif;
+  font-size: 40px;
+}
+.app {
+  max-width: 600px;
+  box-shadow: rgb(247, 242, 240, 0.08) 0px 10px;
+  background: #f8ece1;
+  margin: 60px auto;
+  padding: 30px;
+  border-radius: 10px;
+}
+.details {
+  font-size: 18px;
+  opacity: 100%;
+}
+.details-value {
+  color: #151f12;
+  opacity: 100%;
+}
+.temperature {
+  position: relative;
+  right: -370px;
+  top: -200px;
+  font-size: 80px;
+}
+.value {
+  position: relative;
+  right: -450px;
+  top: -280px;
+  font-size: 25px;
+}
+.emoji-value {
+  position: relative;
+  right: -320px;
+  top: -120px;
+  font-size: 50px;
+}
+hr {
+  opacity: 30%;
+}
+.footer {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  opacity: 50%;
+  font-family: "Times New Roman", Times, serif;
+}
